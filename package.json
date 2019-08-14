@@ -1,0 +1,15 @@
+{
+  "name": "@amazingandyyy/node-runner",
+  "version": "0.0.1",
+  "description": "run the node file, run it again when any file is updated",
+  "main": "index.js",
+  "bin": {
+    "node-run": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Amazingandyyy <amazingandyyy@gmail.com> (Andy Chen)",
+  "license": "MIT"
+}
