@@ -45,5 +45,6 @@
   },
   "files": [
     "index.js"
-  ]
+  ],
+  "dependencies": {}
 }

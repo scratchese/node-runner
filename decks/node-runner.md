@@ -1,4 +1,4 @@
-# node-runner
+# 🏃 node-runner
 
 run the node file, run it again when any file is updated
 
