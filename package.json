@@ -1,7 +1,7 @@
 {
   "name": "@amazingandyyy/node-runner",
   "description": "run the node file, run it again when any file is updated",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Andy Chen",
     "email": "amazingandyyy@gmail.com",
