@@ -2,6 +2,9 @@
   "name": "@amazingandyyy/node-runner",
   "description": "run the node file, run it again when any file is updated",
   "version": "0.0.5",
+  "bin": {
+    "node-run": "index.js"
+  },
   "author": {
     "name": "Andy Chen",
     "email": "amazingandyyy@gmail.com",
@@ -31,9 +34,6 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "bin": {
-    "node-run": "index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/amazingandyyy/node-runner.git"
