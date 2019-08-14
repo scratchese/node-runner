@@ -6,7 +6,7 @@ run the node file, run it again when any file is updated
 </p>
 
 <p align="center">
-   <a href="https://github.com/amazingandyyy/use-form-react/blob/master/LICENSE">
+   <a href="https://github.com/amazingandyyy/node-runner/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-green.svg" />
    </a>
    <a href="https://circleci.com/gh/amazingandyyy/node-runner">
