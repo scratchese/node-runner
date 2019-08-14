@@ -1,6 +1,6 @@
 {
   "name": "@amazingandyyy/node-runner",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "run the node file, run it again when any file is updated",
   "main": "index.js",
   "bin": {
