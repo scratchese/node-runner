@@ -25,6 +25,10 @@ $ node-run
 $ node-run index.js
 ```
 
+## Presentation
+
+[markdeck](https://www.amazingandyyy.com/node-runner/deck/node-runner/)
+
 ## License
 
 MIT
