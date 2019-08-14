@@ -7,6 +7,9 @@
     "email": "amazingandyyy@gmail.com",
     "url": "https://amazingandyyy.com/"
   },
+  "markdeck": {
+    "url": "https://github.com/amazingandyyy/node-runner/tree/master/docs"
+  },
   "bugs": {
     "url": "https://github.com/amazingandyyy/node-runner/issues"
   },
