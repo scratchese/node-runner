@@ -1,15 +1,28 @@
 {
   "name": "@amazingandyyy/node-runner",
-  "version": "0.0.2",
   "description": "run the node file, run it again when any file is updated",
+  "version": "0.0.2",
+  "author": {
+    "name": "Andy Chen",
+    "email": "amazingandyyy@gmail.com",
+    "url": "https://amazingandyyy.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/amazingandyyy/node-runner/issues"
+  },
+  "homepage": "https://github.com/amazingandyyy/node-runner",
+  "keywords": [
+    "node",
+    "nodemon",
+    "node-watch"
+  ],
+  "license": "MIT",
   "main": "index.js",
   "bin": {
     "node-run": "index.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Amazingandyyy <amazingandyyy@gmail.com> (Andy Chen)",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amazingandyyy/node-runner.git"
+  }
 }
