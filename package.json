@@ -7,6 +7,16 @@
     "email": "amazingandyyy@gmail.com",
     "url": "https://amazingandyyy.com/"
   },
+  "scripts": {
+    "test": "standard --fix",
+    "precommit": "npm run test"
+  },
+  "lint-staged": {
+    "*.js": [
+      "npm run test",
+      "git add"
+    ]
+  },
   "markdeck": {
     "url": "https://github.com/amazingandyyy/node-runner/tree/master/docs"
   },
@@ -27,5 +37,10 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/amazingandyyy/node-runner.git"
+  },
+  "devDependencies": {
+    "husky": "^3.0.3",
+    "lint-staged": "^9.2.1",
+    "standard": "*"
   }
 }

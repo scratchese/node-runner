@@ -1,5 +1,5 @@
-const second = require('./second');
+const second = require('./second')
 
-console.log('hi from frist');
+console.log('hi from frist')
 
 second()
