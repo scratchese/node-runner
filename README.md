@@ -1,4 +1,4 @@
-# node-runner
+# node-runner [![CircleCI](https://circleci.com/gh/amazingandyyy/node-runner.svg?style=svg)](https://circleci.com/gh/amazingandyyy/node-runner)
 
 run the node file, run it again when any file is updated
 
