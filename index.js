@@ -7,7 +7,7 @@ const cwd = process.cwd()
 const target = process.argv[2] || require(path.resolve(cwd, 'package.json')).main
 const file = path.resolve(cwd, target)
 
-let session = launch()
+let session = launch();
 
 function launch () {
   console.log(`\x1b[32m[node-run] node ${target}`, '\x1b[0m')

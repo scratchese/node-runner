@@ -11,7 +11,9 @@
     "url": "https://amazingandyyy.com/"
   },
   "scripts": {
-    "test": "standard --fix",
+    "test": "standard --fix"
+  },
+  "git-hooks": {
     "precommit": "npm run test"
   },
   "lint-staged": {
@@ -39,7 +41,7 @@
     "url": "git://github.com/amazingandyyy/node-runner.git"
   },
   "devDependencies": {
-    "husky": "^3.0.3",
+    "@amazingandyyy/git-hooks": "0.0.1",
     "lint-staged": "^9.2.1",
     "standard": "*"
   },
