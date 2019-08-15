@@ -1,7 +1,7 @@
 {
   "name": "@amazingandyyy/node-runner",
   "description": "run the node file, run it again when any file is updated",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "bin": {
     "node-run": "index.js"
   },
@@ -41,7 +41,7 @@
     "url": "git://github.com/amazingandyyy/node-runner.git"
   },
   "devDependencies": {
-    "@amazingandyyy/git-hooks": "0.0.1",
+    "@amazingandyyy/git-hooks": "0.0.7",
     "lint-staged": "^9.2.1",
     "standard": "*"
   },
