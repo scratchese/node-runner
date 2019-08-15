@@ -27,4 +27,4 @@ fs.watch(cwd, (curr, filename) => {
     session.kill('SIGINT')
     session = launch()
   }
-})
+});
