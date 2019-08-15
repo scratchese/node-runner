@@ -24,7 +24,7 @@ process.on('SIGINT', () => {
 
 fs.watch(cwd, (curr, filename) => {
   if (filename.indexOf('node_module') < 0) {
-    session.kill('SIGINT')
-    session = launch()
-  }
+    session.kill('SIGINT');
+    session = launch();
+  };
 });
